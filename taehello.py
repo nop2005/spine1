@@ -1,0 +1,6 @@
+print(' hello')
+print (' my name คือ เต้')
+print(' hello')
+print (' my name คือ เต้')
+print(' hello')
+print (' my name คือ เต้')
